@@ -46,3 +46,42 @@ h1 {
 .small-font {
     font-size: 14px;
 }
+
+#vg-tooltip-element tr:first-child td:nth-child(1){
+    font-size: 13px;
+    font-weight: bold;
+    text-align: right;
+    color: rgb(0, 0, 0);
+}
+
+#vg-tooltip-element tr:nth-child(2) td:nth-child(1){
+    font-size: 13px;
+    font-weight: bold;
+    text-align: right;
+    color: rgb(0, 0, 0);
+}
+
+#vg-tooltip-element tr:nth-child(3) td:nth-child(1){
+    font-size: 13px;
+    font-weight: bold;
+    text-align: right;
+    color: rgb(0, 0, 0);
+}
+
+#vg-tooltip-element tr:nth-child(1) td:nth-child(2){
+    font-size: 13px;
+    text-align: left;
+    color: rgb(71, 69, 69);
+}
+
+#vg-tooltip-element tr:nth-child(2) td:nth-child(2){
+    font-size: 13px;
+    text-align: left;
+    color: rgb(71, 69, 69);
+}
+
+#vg-tooltip-element tr:nth-child(3) td:nth-child(2){
+    font-size: 13px;
+    text-align: left;
+    color: rgb(71, 69, 69);
+}
