@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 750,
-    "data": {"url": "https://raw.githubusercontent.com/Dylan-32845480/fit3179/refs/heads/week10homework/Week10_Homework/data/2023_AirportPassengerData.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/Dylan-32845480/fit3179/refs/heads/week10homework/data/2023_AirportPassengerData.csv"},
     "title": "Passengers by type of air travel in 2023",
     "params": [
         {
